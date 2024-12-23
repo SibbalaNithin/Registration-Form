@@ -1,0 +1,28 @@
+body{
+    /* background-image: url(download5); */
+    background-color: chocolate;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2{
+    text-align: center;
+}
+.parent{
+    position: absolute;
+    height: 75%;
+    width: 50%;
+    display: none;
+    flex-direction: column;
+    border-radius: 5%;
+    justify-content: start;
+    align-items: center;
+    background-color: lightgrey;
+    padding: 5px;
+    top: 10%;
+    left: 25%;
+    display: block;
+    margin: 5px;
+    transition: all ease 2s;
+    /* background-color: aliceblue; */
+    text-decoration-style: none;
+}
